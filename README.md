@@ -33,7 +33,7 @@ Web Developer/Data Engineer who builds data pipeline and analytics solutions.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ywjeong/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://wise-pond-11c.notion.site/Hello-I-m-Yaewon-292e4d71436d83eaa25281104067a084" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://wise-pond-11c.notion.site/Hello-I-m-Yaewon-3b4e4d71436d80ad9fb5ee168d9a1490" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:yay18798@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
